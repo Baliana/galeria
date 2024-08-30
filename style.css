@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(226, 226, 239);
+}
+h1{ background-color:  red;
+padding: 16xp;
+font-weight: 9000;
+text-align: center;
+}
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+img{
+    width: 300xp;
+    display:block;
+    margin: auto;
+    border: 8xp solid black;
+}

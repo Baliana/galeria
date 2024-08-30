@@ -1,0 +1,29 @@
+body{
+    background-color:gray;
+}
+h1{background-color: rgb(43, 42, 42);
+    padding: 50px;
+    font-weight: 100px;
+    text-align: center;
+    color:black;
+
+}
+#Classe_imagem{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 50%;
+    justify-content: space-around;
+    border: 1px;
+    margin: 0 auto auto;
+    padding: 200px;
+
+}
+.imagem{
+    width: 250px;
+    height: 300px;
+    border:10xp solid;
+    border-radius: 5px;
+    background-color: black;
+    border: 5px solid rgb(240, 234, 234);
+}
