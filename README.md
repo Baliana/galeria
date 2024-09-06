@@ -11,4 +11,4 @@ Site feito para fazer uma galeria de fotos. Esse projeto tem como objetivo trein
 - Git
 
 ## Autor
-- [Fernando Baliana](https://www.linkedin.com/feed/)
+- [Fernando Baliana](https://www.linkedin.com/feed/)# galeria
